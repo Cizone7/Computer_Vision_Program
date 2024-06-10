@@ -1,8 +1,0 @@
-CNN_20240528-185954.h5  监察val-accuracy patience=5 epoch =40
-CNN_20240528-190454.h5  监察val-loss  patience=5 epoch =40
-
-CNN_20240528-190454.h5 效果好 precision=0.7833
-
-CNN_20240528-193503.h5 监察val-loss  patience=10 epoch =80 precision=0.7667
-
-数据增强 监察val-loss  patience=5 epoch =100
