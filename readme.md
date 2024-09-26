@@ -25,8 +25,6 @@
     - [image\_retrieval\_evaluation.py](#image_retrieval_evaluationpy)
   - [CNN模型记录](#cnn模型记录)
   - [结果示例](#结果示例)
-    - [ORB](#orb)
-    - [SIFT](#sift)
 
 ## 安装
 
@@ -112,7 +110,13 @@ CNN_20240528-193503.h5 监察val-loss  patience=10 epoch =80 precision=0.7667
 数据增强 监察val-loss  patience=5 epoch =100
 
 ## 结果示例
-### ORB
-<img src="Readme_image/image1.png" alt="Image 1" style="width:400px;height:auto;">
-### SIFT
-<img src="Readme_image/image2.png" alt="Image 1" style="width:400px;height:auto;">
+<div style="display: flex; justify-content: space-around;">
+  <div>
+  <img src="Readme_image/image1.png" alt="Image 1" style="width:400px;height:auto;">
+    <p>ORB</p>
+  </div>
+  <div>
+  <img src="Readme_image/image2.png" alt="Image 1" style="width:400px;height:auto;">
+    <p>SIFT</p>
+  </div>
+</div>
